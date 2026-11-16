@@ -42,7 +42,7 @@ projeto-jogo-ip/
 ├── utils/             # Funções auxiliares do projeto
 ├── constantes.py      # Valores fixos usados para qualquer partes do projeto
 ├── main.py            # Parte principal
-├── requirements.txt   # # Bibliotecas usadas
+├── requirements.txt   # Bibliotecas usadas
 ├── .gitignore         # Arquivos/Pastas que não devem ser enviadas para o repositório
 └── README.md          # Documentação e apresentação geral do projeto
 
