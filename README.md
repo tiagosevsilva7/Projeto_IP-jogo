@@ -1,6 +1,6 @@
 # 🗡️ Dead Swarm: O Último Bastião (Estilo Bullet Hell) - 
 
-> Jogo no estilo bullet hell ambientado em um apocalipse zumbi, desenvolvido para a disciplina de Introdução a Programação da UFPE
+> Jogo no estilo bullet hell ambientado em um apocalipse zumbi, desenvolvido para a disciplina de Introdução a Programação do Cin-UFPE
 
 ---
 
