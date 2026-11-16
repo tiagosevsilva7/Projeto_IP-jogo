@@ -28,17 +28,18 @@ Registro em Tela: Contabilização e exibição simultânea da quantidade coleta
 
 Estrutura geral visando melhor organização e aproveitamento:
 
+```text
 projeto-jogo-ip/
-├── assets/                  # Imagens, fontes, efeitos sonoros
-│   ├── images/              # Para imagens gerais do jogo
-│   ├── sounds/              # Para efeitos sonoros
-│   └── musica/              # Para músicas
-├── classes/                 # Guarda os arquivos dos principais objetos do jogo
-├── utils/                   # Funções auxiliares do projeto
-├── constantes.py            # Valores fixos usados para qualquer partes do projeto
-├── main.py                  # Parte principal
-├── requirements.txt         # Bibliotecas usadas
-├── .gitignore               # Arquivos/Pastas que não devem ser enviadas para o repositório
-└── README.md                # Documentação e apresentação geral do projeto
+├── assets/            # Imagens, fontes, efeitos sonoros
+│   ├── images/        # Para imagens gerais do jogo
+│   ├── sounds/        # Para efeitos sonoros
+│   └── musica/        # Para músicas
+├── classes/           # Guarda os arquivos dos principais objetos do jogo
+├── utils/             # Funções auxiliares do projeto
+├── constantes.py      # Valores fixos usados para qualquer partes do projeto
+├── main.py            # Parte principal
+├── requirements.txt   # # Bibliotecas usadas
+├── .gitignore         # Arquivos/Pastas que não devem ser enviadas para o repositório
+└── README.md          # Documentação e apresentação geral do projeto
 
 
