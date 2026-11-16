@@ -2,7 +2,7 @@
 WIDTH = 800
 HEIGHT = 600
 FPS = 60
-TITULO = "Chumbo & Sangue"
+TITULO = "Dead Swarm: O Último Bastião"
 
 # Cores RGB
 WHITE = (255, 255, 255)
